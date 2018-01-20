@@ -4,6 +4,7 @@ version = "0.1.0"
 authors = ["ThermalSpan"]
 readme = "README.md"
 license-file = "License.txt"
+description = "The interface used to between the Aught server and aught_client"
 
 [dependencies]
 serde = "*"
