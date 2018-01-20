@@ -2,6 +2,8 @@
 name = "aught_common"
 version = "0.1.0"
 authors = ["ThermalSpan"]
+readme = "README.md"
+license-file = "License.txt"
 
 [dependencies]
 serde = "*"
