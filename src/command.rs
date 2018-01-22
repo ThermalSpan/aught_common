@@ -1,4 +1,4 @@
-#[derive(Serialize, Deserialize)]
+#[derive(Debug, Serialize, Deserialize)]
 pub enum Command {
     Point(f32, f32),
     Line(f32, f32, f32, f32),

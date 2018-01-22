@@ -1,4 +1,3 @@
-
 use serde_json;
 use std::error::Error;
 use std::fmt;
